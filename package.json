@@ -1,22 +1,22 @@
 {
-  "name": "donato-vscode-themes",
-  "displayName": "donato vscode themes",
-  "description": "donato vscode dark, OLED and flat themes",
+  "name": "donato-one-dark",
+  "displayName": "donato one dark",
+  "description": "donato one dark, OLED and flat themes",
   "version": "0.0.1",
   "publisher": "ebdonato",
   "license": "MIT",
   "author": {
     "name": "Eduardo DONATO",
     "email": "eduardo.donato@gmail.com",
-    "url": "https://github.com/ebdonato/donato-vscode-themes"
+    "url": "https://github.com/ebdonato/donato-one-dark"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ebdonato/donato-vscode-themes"
+    "url": "https://github.com/ebdonato/donato-one-dark"
   },
-  "homepage": "https://github.com/ebdonato/donato-vscode-themes#readme",
+  "homepage": "https://github.com/ebdonato/donato-one-dark#readme",
   "bugs": {
-    "url": "https://github.com/ebdonato/donato-vscode-themes/issues"
+    "url": "https://github.com/ebdonato/donato-one-dark/issues"
   },
   "keywords": [
     "theme",

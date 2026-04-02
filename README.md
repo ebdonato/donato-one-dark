@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/icon.png" alt="donato vscode themes" width="128" />
+  <img src="assets/icon.png" alt="donato one dark" width="128" />
 </p>
 
-<h1 align="center">donato vscode themes</h1>
+<h1 align="center">donato one dark</h1>
 
 <p align="center">
   Dark color themes for <a href="https://code.visualstudio.com/">Visual Studio Code</a> based on the One Dark color scheme — available in <strong>Flat</strong> and <strong>OLED</strong> variants.
@@ -10,7 +10,7 @@
 
 ## Inspired by
 
-This theme is inspired by [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) ([VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)), one of the most popular dark themes for VS Code. donato vscode themes builds on the same One Dark color palette while offering a flat/borderless UI and a true-black OLED option.
+This theme is inspired by [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) ([VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)), one of the most popular dark themes for VS Code. donato one dark builds on the same One Dark color palette while offering a flat/borderless UI and a true-black OLED option.
 
 ## Theme Variants
 
@@ -29,7 +29,7 @@ A pure black (`#000000`) theme designed for OLED displays — saves power and el
 ## Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X`).
-2. Search for `donato vscode themes`.
+2. Search for `donato one dark`.
 3. Click **Install**.
 4. Go to `Preferences: Color Theme` (`Ctrl+K Ctrl+T`) and select either **donato one dark flat** or **donato one dark oled**.
 

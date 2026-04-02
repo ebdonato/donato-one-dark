@@ -4,7 +4,7 @@ This file provides guidance for AI coding agents working in this repository.
 
 ## Project Overview
 
-This is a **VS Code color theme extension** called "donato vscode themes". It provides two
+This is a **VS Code color theme extension** called "donato one dark". It provides two
 dark theme variants based on the One Dark color scheme. The project contains **no executable
 code** -- it is entirely declarative JSON. There is no TypeScript, JavaScript, build step,
 or compilation involved.
@@ -23,7 +23,7 @@ where the OLED variant replaces `#16191d` with `#000000` for background surfaces
 ## Repository Structure
 
 ```
-donato-vscode-themes/
+donato-one-dark/
   package.json                 # Extension manifest (name, version, theme contributions)
   CHANGELOG.md                 # Keep a Changelog format
   README.md                    # Extension readme
