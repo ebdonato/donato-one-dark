@@ -4,3 +4,5 @@
 vsc-extension-quickstart.md
 node_modules/**
 AGENTS.md
+package-lock.json
+assets/icon.svg

@@ -18,13 +18,13 @@ This theme is inspired by [One Dark Pro](https://github.com/Binaryify/OneDark-Pr
 
 A dark gray (`#16191d`) theme with a flat, borderless look — no visible panel separators for a clean, uniform UI.
 
-![donato one dark flat](assets/screenshoot-flat.png)
+![donato one dark flat](assets/screenshot-flat.png)
 
 ### donato one dark oled
 
 A pure black (`#000000`) theme designed for OLED displays — saves power and eliminates glow around the edges of the screen.
 
-![donato one dark oled](assets/screenshoot-oled.png)
+![donato one dark oled](assets/screenshot-oled.png)
 
 ## Installation
 
