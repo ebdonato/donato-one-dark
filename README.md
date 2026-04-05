@@ -52,3 +52,10 @@ Both variants share the same syntax highlighting colors:
 ## License
 
 [MIT](LICENSE)
+
+## Made by with 💛
+
+<p align="center">
+  <img src="assets/eu.png" alt="DONATO" width="96" style="border-radius: 50%;" /><br/>
+  <strong>Eduardo DONATO</strong>
+</p>
