@@ -8,6 +8,12 @@
   Dark color themes for <a href="https://code.visualstudio.com/">Visual Studio Code</a> based on the One Dark color scheme — available in <strong>Flat</strong> and <strong>OLED</strong> variants.
 </p>
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ebdonato.donato-one-dark">VS Code Marketplace</a>
+  &nbsp;·&nbsp;
+  <a href="https://open-vsx.org/extension/ebdonato/donato-one-dark">Open VSX Registry</a>
+</p>
+
 ## Inspired by
 
 This theme is inspired by [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) ([VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)), one of the most popular dark themes for VS Code. donato one dark builds on the same One Dark color palette while offering a flat/borderless UI and a true-black OLED option.
