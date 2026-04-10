@@ -70,7 +70,8 @@ To publish a new version:
    ```
 5. **Push the commit and tag** to the main branch:
    ```bash
-   git push origin main --tags
+   git push origin main
+   git push origin v1.2.0
    ```
 6. The GitHub Actions workflow will automatically publish to both marketplaces.
 
@@ -83,7 +84,8 @@ To publish a new version:
 git add -A && git commit -m "v1.2.0"
 # 3. Tag and push — this triggers the publish workflow
 git tag v1.2.0
-git push origin main --tags
+git push origin main
+git push origin v1.2.0
 ```
 
 ### Validating Theme JSON
