@@ -55,15 +55,35 @@ is purely declarative JSON and requires no compilation.
 
 ### Packaging and Publishing
 
+Publishing is automated via GitHub Actions (`.github/workflows/publish.yml`).
+Pushing a tag matching `v*` triggers the workflow, which publishes the extension
+to both the **VS Code Marketplace** and the **Open VSX Registry**.
+
+To publish a new version:
+
+1. **Update the version** in `package.json` (e.g., `"version": "1.2.0"`).
+2. **Update `CHANGELOG.md`** with the changes for the new version.
+3. **Commit** the version bump and changelog changes.
+4. **Create a git tag** matching the new version (prefixed with `v`):
+   ```bash
+   git tag v1.2.0
+   ```
+5. **Push the commit and tag** to the main branch:
+   ```bash
+   git push origin main --tags
+   ```
+6. The GitHub Actions workflow will automatically publish to both marketplaces.
+
+**Summary (quick reference):**
+
 ```bash
-# Install vsce if not already installed
-npm install -g @vscode/vsce
-
-# Package the extension into a .vsix file
-vsce package
-
-# Publish to VS Code Marketplace (requires a Personal Access Token)
-vsce publish
+# After editing theme files and updating CHANGELOG.md:
+# 1. Bump version in package.json
+# 2. Commit all changes
+git add -A && git commit -m "v1.2.0"
+# 3. Tag and push — this triggers the publish workflow
+git tag v1.2.0
+git push origin main --tags
 ```
 
 ### Validating Theme JSON
