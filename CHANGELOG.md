@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 
 ## [Unreleased]
 
+## [1.1.2] - 2026-04-11
+
+### Fixed
+
+- Fixed visible borders in OLED theme variant by changing the following border colors from `#181a1f` to `#000000`:
+  - `tab.border` — eliminated visible tab borders
+  - `editorHoverWidget.border` — eliminated hover tooltip borders
+  - `editorSuggestWidget.border` — eliminated autocomplete widget borders
+  - `input.border` — eliminated input field borders
+  - `notificationCenter.border` — eliminated notification center borders
+- OLED theme now maintains consistent borderless aesthetic matching the flat variant
+
 ## [1.1.0] - 2026-04-04
 
 ### Added
