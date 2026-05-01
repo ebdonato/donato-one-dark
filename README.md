@@ -5,7 +5,7 @@
 <h1 align="center">donato one dark</h1>
 
 <p align="center">
-  Dark color themes for <a href="https://code.visualstudio.com/">Visual Studio Code</a> based on the One Dark color scheme — available in <strong>Flat</strong> and <strong>OLED</strong> variants.
+  Dark color themes for <a href="https://code.visualstudio.com/">Visual Studio Code</a> and <a href="https://antigravity.codes/">Google Antigravity IDE</a> based on the One Dark color scheme — available in <strong>Flat</strong> and <strong>OLED</strong> variants.
 </p>
 
 <p align="center">
@@ -34,7 +34,18 @@ A pure black (`#000000`) theme designed for OLED displays — saves power and el
 
 ## Installation
 
+### Visual Studio Code
+
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X`).
+2. Search for `donato one dark`.
+3. Click **Install**.
+4. Go to `Preferences: Color Theme` (`Ctrl+K Ctrl+T`) and select either **donato one dark flat** or **donato one dark oled**.
+
+### Google Antigravity IDE
+
+Antigravity IDE is fully compatible with VS Code themes. This extension is published to the [Open VSX Registry](https://open-vsx.org/extension/ebdonato/donato-one-dark), which Antigravity uses by default.
+
+1. Open **Extensions** in Antigravity (`Ctrl+Shift+X`).
 2. Search for `donato one dark`.
 3. Click **Install**.
 4. Go to `Preferences: Color Theme` (`Ctrl+K Ctrl+T`) and select either **donato one dark flat** or **donato one dark oled**.

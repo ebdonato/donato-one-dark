@@ -4,7 +4,19 @@ All notable changes to the "donato-one-dark" extension will be documented in thi
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [1.1.3] - 2026-05-01
+
+### Added
+
+- Google Antigravity IDE compatibility — the theme now explicitly supports Antigravity IDE
+- Added `antigravity` and `google antigravity` keywords to `package.json` for discoverability on Open VSX
+- Added `antigravity` engine entry in `package.json`
+- Updated README with Antigravity IDE installation instructions and compatibility note
+- Updated extension description to mention Google Antigravity IDE
+
+### Fixed
+
+- Lowered `engines.vscode` minimum from `^1.110.0` to `^1.60.0` — fixes "not compatible" error when installing on Antigravity IDE (v1.107.0). Color themes are purely declarative and don't require recent VS Code APIs.
 
 ## [1.1.2] - 2026-04-11
 

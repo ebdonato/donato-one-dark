@@ -4,10 +4,11 @@ This file provides guidance for AI coding agents working in this repository.
 
 ## Project Overview
 
-This is a **VS Code color theme extension** called "donato one dark". It provides two
+This is a **VS Code / Google Antigravity IDE color theme extension** called "donato one dark". It provides two
 dark theme variants based on the One Dark color scheme. The project contains **no executable
 code** -- it is entirely declarative JSON. There is no TypeScript, JavaScript, build step,
-or compilation involved.
+or compilation involved. The theme is published to both the VS Code Marketplace and the Open
+VSX Registry (used by Antigravity IDE).
 
 ### Theme Variants
 
